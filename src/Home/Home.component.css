@@ -1,0 +1,39 @@
+
+
+
+.click-passthru{
+    /*
+        This allows the mouse clicks to pass through the DIV
+        to the component below. This helps the user intuitively
+        interact with the web page when there are controls under
+        a transparent layer.
+     */
+    pointer-events: none;
+}
+
+.no-padding {
+    padding: 0;
+    width: 100%;
+}
+
+.zfront {
+    z-index: 200;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+.zback {
+    z-index: 100;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+.zcontainer {
+    position: relative;
+}
+
+.fullwidth {
+    width: 100%;    
+    text-align: center;
+}

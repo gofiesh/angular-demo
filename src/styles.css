@@ -1,0 +1,56 @@
+/* You can add global styles to this file, and also import other style files */
+
+.no-padding {
+    padding: 0;
+    width: 100%;
+}
+
+.align-center {
+    text-align: center;
+}
+.align-right {
+    text-align: right;
+}
+
+.ggs-generic-padding {
+    padding: 50px;
+}
+
+.ggs-background-1 {
+    background-color: burlywood;    
+}
+.ggs-background-2 {
+    background-color: wheat;    
+}
+.ggs-main-background {
+    background-color: blanchedalmond;
+}
+.ggs-doc-background {
+    color: rgb(88,88,88);
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.ggs-table-header {
+    background-color: rgb(35, 39, 49);
+    color: blanchedalmond;
+}
+.ggs-table-body {
+    background-color: rgb(52, 79, 102);
+    color: blanchedalmond;
+}
+.ggs-footer {
+    background-color: rgb(14, 14, 39);
+    color: blanchedalmond;
+    padding: 30px;
+    font-size: 10pt;
+    text-align: left;
+}
+
+a {
+    color: grey;
+}
+a:visited, a:hover {
+    color:lightgrey;
+}

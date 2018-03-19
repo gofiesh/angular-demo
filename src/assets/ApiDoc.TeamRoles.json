@@ -1,0 +1,13 @@
+{
+    "pages": [
+        {
+            "chapter": "Overview",
+            "text": "<h1>Overview</h1><p>Team members are assigned different roles, have different assets, and enjoy different privileges.</p><p>As the game matures, teams will enjoy more capabilities and flexibilities in defining their government structures and what options they can choose when setting up the powers of those governments and the powers enjoyed by the various players on their team.</p>"
+        },
+        {
+            "chapter": "President",
+            "text": "<h3>President</h3><p>The President is the executive leader and civilian commander in chief of a Republic.</p><h3>strengths</h3><p>The strengths of the Office of the President include:<br>- Creates and owns the team.<br>- Issues orders to all other members.<br>- Unilateral power to hire (invite onto team) and fire (kick off team).<br>- Communicates with world leaders.</p><h3>weaknesses</h3><p>The weaknesses of the Office of the President include:<br>- No direct control over any military assets.<br>- Vulnerable to a military coup.<br>- Vulnerable to impeachment.<br>- Can be mislead by subordinates.</p><p>By definition, a Republic is a nation of laws, in which the rule of law is supreme. This means that the laws of the Republic define the structure of the team's command and control of the military. This has direct impact on how military orders are issued and carried out.</p>"
+        }
+    ]
+}
+

@@ -1,0 +1,32 @@
+[
+    {
+        "gameTitle": "Conquest of North America",
+        "serverIpAddress": "indiana.io/fake-game:4001",
+        "teams": [ {}, {}, {}, {} ]
+    },
+    {
+        "gameTitle": "World Domination",
+        "serverIpAddress": "indiana.io/fake-game:4436",
+        "teams": [ {}, {}, {}, {}, {}, {}, {}, {}, {}, {} ]
+    },
+    {
+        "gameTitle": "Globalization",
+        "serverIpAddress": "120.12.43.104:4042",
+        "teams": [ {}, {} ]
+    },
+    {
+        "gameTitle": "The Dominator",
+        "serverIpAddress": "quirk.io:4992",
+        "teams": [ {}, {}, {}, {}, {}, {} ]
+    },
+    {
+        "gameTitle": "Ruler of the World",
+        "serverIpAddress": "indiana.io/fake-game:5022",
+        "teams": [ {}, {}, {}, {}, {}, {}, {}, {}, {} ]
+    },
+    {
+        "gameTitle": "Top Gun",
+        "serverIpAddress": "indiana.io/fake-game:4600",
+        "teams": [ {}, {}, {}, {}, {}, {}, {}, {} ]
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+      "onTime"   : 100,
+      "ident"    : "Tango-1",
+      "altitude" : 34000,
+      "location" : [-10,425],
+      "color"    : "white",
+      "type"     : "bomber",
+      "plan"     : [
+        {
+          "velocity"   : 0.34,
+          "waypoint"   : [200, 330]
+        },
+        {
+          "velocity"   : 0.33,
+          "waypoint"   : [199, 320]
+        },
+        {
+          "velocity"   : 0.32,
+          "waypoint"   : [150, 300]
+        },
+        {
+          "velocity"   : 0.31,
+          "waypoint"   : [-120,290]
+        }
+      ]
+    },
+    {
+      "onTime"   : 410,
+      "ident"    : "Angel-4",
+      "location" : [600,330],
+      "color"    : "yellow",
+      "type"     : "raptor",
+      "plan"     : [
+        {
+          "velocity"   : 0.45,
+          "climb"      : 39,
+          "waypoint"   : [200, 280]
+        },
+        {
+          "velocity"   : 0.27,
+          "climb"      : 0,
+          "waypoint"   : [150, 290]
+        },
+        {
+          "velocity"   : 0.22,
+          "waypoint"   : [130, 410]
+        },
+        {
+          "velocity"   : 0.21,
+          "climb"      : -17,
+          "waypoint"   : [600, 330]
+        }
+      ]
+    },
+    {
+      "onTime"   : 480,
+      "ident"    : "Angel-5",
+      "location" : [600,330],
+      "color"    : "yellow",
+      "type"     : "raptor",
+      "plan"     : [
+        {
+          "velocity"   : 0.41,
+          "climb"      : 32,
+          "waypoint"   : [200, 280]
+        },
+        {
+          "velocity"   : 0.23,
+          "climb"      : 0,
+          "waypoint"   : [145, 385]
+        },
+        {
+          "velocity"   : 0.22,
+          "waypoint"   : [145, 425]
+        },
+        {
+          "velocity"   : 0.21,
+          "climb"      : -17,
+          "waypoint"   : [600, 330]
+        }
+      ]
+    },
+    {
+      "onTime"   : 3400,
+      "restart"  : true
+    }
+  ]
